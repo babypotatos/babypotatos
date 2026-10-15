@@ -39,27 +39,6 @@
 
 ---
 
-## ⭐ Featured Project
-
-### 🧴 CreamyView — K-Beauty 스킨케어 크림 리뷰 데이터 분석
-
-> 리뷰 속 소비자는 무엇을 말하고, 분석가는 무엇을 들어야 하는가
-
-4개국(🇰🇷 한국 · 🇺🇸 미국 · 🇯🇵 일본 · 🇷🇺 러시아) 대표 쇼핑몰의 스킨케어 크림 리뷰를
-텍스트마이닝과 머신러닝으로 분석해 **국가별 K-Beauty 현지화 전략**을 제안한 팀 프로젝트입니다.
-
-| 항목 | 내용 |
-|---|---|
-| **기간 · 인원** | 2026 · 4인 팀 프로젝트 |
-| **데이터** | 4개국 × 인기 상위 10개 제품 × 리뷰 200건 수집 (Selenium) |
-| **방법** | 번역 · 형태소 분석 · TF-IDF → 9개 속성 / 811개 키워드 사전 구축 → 로지스틱 회귀(국가×속성 상호작용) → 머신러닝 · SHAP |
-| **성과** | Test AUC 0.813 · 가설 4개 중 2개 지지 |
-| **인사이트** | 불만 요인(자극·배송)은 모든 국가 공통, 만족 요인은 보습을 기반으로 국가마다 다름 → **표준화 + 차별화 동시 설계** |
-
-📄 [프로젝트 보고서 보기](https://github.com/babypotatos/CreamyView)
-
----
-
 ## 🛠️ Tech Stack
 
 **Data Analysis**
@@ -72,8 +51,8 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-모델_해석-FF0D57)
-![Kiwi](https://img.shields.io/badge/Kiwi-형태소_분석-2EA043)
+![SHAP](https://img.shields.io/badge/SHAP-FF0D57)
+![Kiwi](https://img.shields.io/badge/Kiwi-2EA043)
 
 **Collection & Automation**
 
@@ -83,6 +62,23 @@
 **Visualization**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+
+---
+
+## ⭐ Featured Project
+
+### 💄 CreamyView — K-Beauty 스킨케어 크림 리뷰 데이터 분석
+
+4개국 쇼핑몰의 스킨케어 크림 리뷰를 텍스트마이닝과 머신러닝으로 분석해
+**국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. (2026)
+
+<a href="https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf">
+  <img src="./creamyview_cover.png" width="100%"/>
+</a>
+
+<img src="./creamyview_summary.png" width="100%"/>
+
+📄 [프로젝트 보고서 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf)
 
 ---
 
