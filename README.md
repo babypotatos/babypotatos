@@ -4,12 +4,13 @@
 
 <div align="center">
 
+
 # 손새연
 
 ### Data Analyst · Data Collector
 
 데이터 수집부터 전처리, 시각화, 분석까지<br/>
-**숫자 뒤에 숨은 이야기**를 찾는 데이터 분석가입니다.
+**숫자 뒤에 숨은 이야기**를 찾습니다.
 
 <br/>
 
@@ -70,23 +71,17 @@
 ### 💄 CreamyView — K-Beauty 스킨케어 크림 리뷰 데이터 분석
 
 4개국 쇼핑몰의 스킨케어 크림 리뷰를 텍스트마이닝과 머신러닝으로 분석해
-**국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. (2026)
+**국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. 
 
-| 항목 | 내용 |
-|---|---|
-| **기간 · 인원** | 2026 · 4인 팀 프로젝트 |
-| **데이터** | 4개국 × 인기 상위 10개 제품 × 리뷰 200건 수집 (Selenium) |
-| **방법** | 번역 · 형태소 분석 · TF-IDF → 9개 속성 / 811개 키워드 사전 구축 → 로지스틱 회귀(국가×속성 상호작용) → 머신러닝 · SHAP |
-| **성과** | Test AUC 0.813 · 가설 4개 중 2개 지지 |
-| **인사이트** | 불만 요인(자극·배송)은 모든 국가 공통, 만족 요인은 보습을 기반으로 국가마다 다름 → **표준화 + 차별화 동시 설계** |
+| 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 |
+|:--:|:--:|:--:|:--:|
+| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · 분석)<br/>SHAP 분석 | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📄 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf) |
 
 <a href="https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf">
   <img src="./creamyview_cover.png" width="100%"/>
 </a>
 
 <img src="./creamyview_summary.png" width="100%"/>
-
-📄 [프로젝트 보고서 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf)
 
 ---
 
