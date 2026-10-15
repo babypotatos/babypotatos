@@ -16,11 +16,13 @@
 ![SQLD](https://img.shields.io/badge/SQLD-0F4C81?style=for-the-badge)
 ![ADsP](https://img.shields.io/badge/ADsP-1F6FEB?style=for-the-badge)
 ![사회조사분석사](https://img.shields.io/badge/사회조사분석사-2급-2EA043?style=for-the-badge)
-![Email](https://img.shields.io/badge/zpsel5856@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+<br/>
+[![Email](https://img.shields.io/badge/sonsaeyeon22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonsaeyeon22@gmail.com)
+[![Blog](https://img.shields.io/badge/Study_Log-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/hellohandbird)
 
 </div>
 
-> 미디어커뮤니케이션 전공과 실무 경험을 바탕으로, **데이터 수집 → 품질 점검 → 전처리 → EDA → 모델링 → 해석**에 이르는
+> **데이터 수집 → 품질 점검 → 전처리 → EDA → 모델링 → 해석**에 이르는
 > **데이터 생애주기 전반**을 직접 수행하며 성장하고 있습니다.
 
 ---
@@ -33,6 +35,28 @@
 | **Focus** | 데이터 전처리 · 데이터 시각화 · 데이터 분석 |
 | **License** | `SQLD` `ADsP` `사회조사분석사 2급` |
 | **Contact** | sonsaeyeon22@gmail.com |
+| **Study Log** | [데이터 분석 학습 노트](https://blog.naver.com/hellohandbird) |
+
+---
+
+## ⭐ Featured Project
+
+### 🧴 CreamyView — K-Beauty 스킨케어 크림 리뷰 데이터 분석
+
+> 리뷰 속 소비자는 무엇을 말하고, 분석가는 무엇을 들어야 하는가
+
+4개국(🇰🇷 한국 · 🇺🇸 미국 · 🇯🇵 일본 · 🇷🇺 러시아) 대표 쇼핑몰의 스킨케어 크림 리뷰를
+텍스트마이닝과 머신러닝으로 분석해 **국가별 K-Beauty 현지화 전략**을 제안한 팀 프로젝트입니다.
+
+| 항목 | 내용 |
+|---|---|
+| **기간 · 인원** | 2026 · 4인 팀 프로젝트 |
+| **데이터** | 4개국 × 인기 상위 10개 제품 × 리뷰 200건 수집 (Selenium) |
+| **방법** | 번역 · 형태소 분석 · TF-IDF → 9개 속성 / 811개 키워드 사전 구축 → 로지스틱 회귀(국가×속성 상호작용) → 머신러닝 · SHAP |
+| **성과** | Test AUC 0.813 · 가설 4개 중 2개 지지 |
+| **인사이트** | 불만 요인(자극·배송)은 모든 국가 공통, 만족 요인은 보습을 기반으로 국가마다 다름 → **표준화 + 차별화 동시 설계** |
+
+📄 [프로젝트 보고서 보기](https://github.com/babypotatos/CreamyView)
 
 ---
 
@@ -48,6 +72,7 @@
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-모델_해석-FF0D57)
 ![Kiwi](https://img.shields.io/badge/Kiwi-형태소_분석-2EA043)
 
 **Collection & Automation**
@@ -87,7 +112,8 @@
 
 ### 📮 Contact
 
-[![Email](https://img.shields.io/badge/zpsel5856@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:zpsel5856@naver.com)
+[![Email](https://img.shields.io/badge/sonsaeyeon22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonsaeyeon22@gmail.com)
+[![Blog](https://img.shields.io/badge/Study_Log-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/hellohandbird)
 
 <sub>Data Collection · Data Preprocessing · Exploratory Data Analysis · Modeling · Machine Learning</sub>
 
