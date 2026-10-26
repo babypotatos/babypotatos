@@ -94,7 +94,7 @@
 |:--:|---|---|:--:|
 | 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>) | 선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>)  | 선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 03 | 다이아몬드 가격 예측 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 04 | 하우징 데이터셋 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 05 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 06 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
