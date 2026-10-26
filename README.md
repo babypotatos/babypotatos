@@ -90,19 +90,19 @@
 데이터 생애주기를 **한 노트북 안에서** 검증하는 것을 원칙으로 합니다.
 품질 점검 → EDA → 모델링 → 진단 → 해석까지, 모든 코드 셀 아래에 **판단이 담긴 해석**을 남깁니다.
 
-| # | 프로젝트 | 기법 | 상태 |
-|:--:|---|---|:--:|
-| 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>) | 다중선형회귀<br><sub>민감도 분석</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀<br><sub>상호작용 (흡연 × 비만)</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀<br><sub>도메인 지식 변수 선택</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀<br><sub>파생변수 (옵션 개수)</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 05 | [당뇨병 진행 위험요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 진행 위험요인 분석.ipynb>) | 다중선형회귀<br><sub>다중공선성 진단</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 06 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 07 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 08 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 09 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 10 | (미정) | 머신러닝 · 군집 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 11 | (미정) | 머신러닝 · 분류 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| # | 프로젝트 | 기법 | 핵심 포인트 | 상태 |
+|:--:|---|---|---|:--:|
+| 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>) | 다중선형회귀 | 상한값 민감도 분석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀 | 흡연 × 비만 상호작용 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀 | 도메인 지식 변수 선택 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀 | 파생변수 (옵션 개수) | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 05 | [당뇨병 진행 위험요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 진행 위험요인 분석.ipynb>) | 다중선형회귀 | 다중공선성 진단 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 06 | 사과 품종 분류 | 로지스틱 회귀 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 07 | 타이타닉 생존 예측 | 로지스틱 회귀 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 08 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 09 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 10 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 11 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 
 **공통 모듈** — 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
 
