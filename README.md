@@ -92,11 +92,11 @@
 
 | # | 프로젝트 | 기법 | 상태 |
 |:--:|---|---|:--:|
-| 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>)<br><sub>상한값의 영향 검증</sub> | 다중선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>)<br><sub>흡연 × 비만 상호작용</sub> | 다중선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>)<br><sub>등급의 역설</sub> | 다중선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>)<br><sub>넓힐까, 설비를 들일까</sub> | 다중선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 05 | [당뇨병 진행 위험요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 진행 위험요인 분석.ipynb>)<br><sub>공선성과 계수 해석</sub> | 다중선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>) | 다중선형회귀<br><sub>민감도 분석</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀<br><sub>상호작용 (흡연 × 비만)</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀<br><sub>도메인 지식 변수 선택</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀<br><sub>파생변수 (옵션 개수)</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 05 | [당뇨병 진행 위험요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 진행 위험요인 분석.ipynb>) | 다중선형회귀<br><sub>다중공선성 진단</sub> | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 06 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 07 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 08 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
