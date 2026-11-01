@@ -96,8 +96,8 @@
 | 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀 | 흡연 × 비만 상호작용 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀 | 도메인 지식 변수 선택 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀 | 파생변수 (옵션 개수) | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 05 | [패션 이커머스 할인율 결정요인](<https://github.com/babypotatos/workspace/blob/main/패션 이커머스 할인율 결정요인.ipynb>) | 다중선형회귀 | 할인은 브랜드가 정한다 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 06 | 사과 품종 분류 | 로지스틱 회귀 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 05 | [패션 이커머스 할인율 결정요인](<https://github.com/babypotatos/workspace/blob/main/패션 이커머스 할인율 결정요인.ipynb>) | 다중선형회귀 | 할인은 브랜드가 정한다 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 06 | [사과 품질 판별](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별.ipynb>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 07 | 타이타닉 생존 예측 | 로지스틱 회귀 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 08 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 09 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
