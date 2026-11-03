@@ -75,7 +75,7 @@
 
 | 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 |
 |:--:|:--:|:--:|:--:|
-| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA<br/>SHAP 분석) | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📄 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf) |
+| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석)<br/> | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📄 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf) |
 
 <a href="https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf">
   <img src="./creamyview_cover.png" width="100%"/>
@@ -100,7 +100,7 @@
 | 06 | [사과 품질 판별](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별.ipynb>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 07 | [당뇨병 발병 요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석.ipynb>) | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 08 | [타이타닉 생존 요인 분석](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석.ipynb>) | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 09 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 09 | [캘리포니아 주택가격 예측] | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 10 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 11 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 12 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
