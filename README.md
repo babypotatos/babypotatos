@@ -96,14 +96,13 @@
 | 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀 | 흡연 × 비만 상호작용 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀 | 도메인 지식 변수 선택 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀 | 파생변수 (옵션 개수) | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 05 | [패션 이커머스 할인율 결정요인](<https://github.com/babypotatos/workspace/blob/main/패션 이커머스 할인율 결정요인.ipynb>) | 다중선형회귀 | 할인은 브랜드가 정한다 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 06 | [사과 품질 판별](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별.ipynb>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 07 | [당뇨병 발병 요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석.ipynb>) | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 08 | [타이타닉 생존 요인 분석](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석.ipynb>) | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 09 | [캘리포니아 주택가격 예측] | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 10 | (미정) | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 11 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
-| 12 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 05 | [사과 품질 판별](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별.ipynb>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 06 | [당뇨병 발병 요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석.ipynb>) | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 07 | [타이타닉 생존 요인 분석](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석.ipynb>) | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 08 | [캘리포니아 주택가격 예측] | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 09 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 10 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+
 
 **공통 모듈** — 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
 
