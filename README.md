@@ -73,9 +73,9 @@
 4개국 쇼핑몰의 스킨케어 크림 리뷰를 텍스트마이닝과 머신러닝으로 분석해
 **국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. 
 
-| 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 요약 | 보고서 원문 |
+| 기간 · 인원 | 담당 역할 | 사용 기술 | 요약 | 보고서 |
 |:--:|:--:|:--:|:--:|:--:|
-| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석) | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📝 요약 README](<https://github.com/babypotatos/workspace/blob/main/CreamyView_report/README_CreamyView.md>) | [📄 보고서 PDF](<https://github.com/babypotatos/workspace/blob/main/CreamyView_report/CreamyView_report.pdf>)
+| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석) | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📝](<https://github.com/babypotatos/workspace/blob/main/CreamyView_report/README_CreamyView.md>) | [📄](<https://github.com/babypotatos/workspace/blob/main/CreamyView_report/CreamyView_report.pdf>) |
 
 <a href="https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf">
   <img src="./creamyview_cover.png" width="100%"/>
@@ -90,8 +90,6 @@
 데이터 생애주기를 **한 노트북 안에서** 검증하는 것을 원칙으로 합니다.
 품질 점검 → EDA → 모델링 → 진단 → 해석까지, 모든 코드 셀 아래에 **판단이 담긴 해석**을 남깁니다.
 
-| # | 프로젝트 | 기법 | 핵심 포인트 | 상태 |
-|:--:|---|---|---|:--:|
 | # | 프로젝트 | 기법 | 핵심 포인트 | 요약 | 코드 |
 |:--:|---|---|---|:--:|:--:|
 | 01 | 보스턴 하우징 가격 결정요인 | 다중선형회귀 | 상한값 민감도 분석 | [📝](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/README_보스턴_하우징_가격_결정요인.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/보스턴_하우징_가격_결정요인.ipynb>) |
