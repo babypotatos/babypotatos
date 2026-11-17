@@ -73,9 +73,9 @@
 4개국 쇼핑몰의 스킨케어 크림 리뷰를 텍스트마이닝과 머신러닝으로 분석해
 **국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. 
 
-| 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 |
+| 기간 · 인원 | 담당 역할 | 사용 기술 | 자세히 보기 |
 |:--:|:--:|:--:|:--:|
-| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석)<br/> | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📄 전체 보기](https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf) |
+| 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석) | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📝 요약 README](CreamyView_report/)<br/>[📄 보고서 PDF](CreamyView_report/CreamyView_report.pdf) |
 
 <a href="https://github.com/babypotatos/workspace/blob/main/CreamyView_report.pdf">
   <img src="./creamyview_cover.png" width="100%"/>
@@ -92,14 +92,14 @@
 
 | # | 프로젝트 | 기법 | 핵심 포인트 | 상태 |
 |:--:|---|---|---|:--:|
-| 01 | [보스턴 하우징 가격 결정요인](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인.ipynb>) | 다중선형회귀 | 상한값 민감도 분석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 02 | [보험료 결정요인](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인.ipynb>) | 다중선형회귀 | 흡연 × 비만 상호작용 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 03 | [다이아몬드 가격 예측](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측.ipynb>) | 다중선형회귀 | 도메인 지식 변수 선택 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 04 | [주택 리모델링 가치 분석](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석.ipynb>) | 다중선형회귀 | 파생변수 (옵션 개수) | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 05 | [사과 품질 판별](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별.ipynb>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 06 | [당뇨병 발병 요인 분석](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석.ipynb>) | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 07 | [타이타닉 생존 요인 분석](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석.ipynb>) | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
-| 08 | [캘리포니아 주택가격 예측] | 머신러닝 · 예측 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 01 | [보스턴 하우징 가격 결정요인](<보스턴 하우징 가격 결정요인/>) | 다중선형회귀 | 상한값 민감도 분석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | [보험료 결정요인](<보험료 결정요인/>) | 다중선형회귀 | 흡연 × 비만 상호작용 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 03 | [다이아몬드 가격 예측](<다이아몬드 가격 예측/>) | 다중선형회귀 | 도메인 지식 변수 선택 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 04 | [주택 리모델링 가치 분석](<주택 리모델링 가치 분석/>) | 다중선형회귀 | 파생변수 (옵션 개수) | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 05 | [사과 품질 판별](<사과 품질 판별/>) | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 06 | [당뇨병 발병 요인 분석](<당뇨병 발병 요인 분석/>) | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 07 | [타이타닉 생존 요인 분석](<타이타닉 생존 요인 분석/>) | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 08 | [캘리포니아 주택가격 결정요인](<캘리포니아 주택가격 결정요인/>) | 머신러닝 (CatBoost) | 공간 군집 파생변수 · SHAP 해석 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
 | 09 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 10 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 
