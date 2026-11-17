@@ -73,7 +73,7 @@
 4개국 쇼핑몰의 스킨케어 크림 리뷰를 텍스트마이닝과 머신러닝으로 분석해
 **국가별 K-Beauty 현지화 전략**을 제안한 4인 팀 프로젝트입니다. 
 
-| 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 요약 | 보고서 |
+| 기간 · 인원 | 담당 역할 | 사용 기술 | 보고서 요약 | 보고서 원문 |
 |:--:|:--:|:--:|:--:|:--:|
 | 2026 · 4인 | 🇯🇵 일본 파트 전담<br/>(리뷰 수집 · 전처리 · 토픽 분류 · EDA · SHAP 분석) | Python · Selenium · Kiwi · statsmodels · scikit-learn · SHAP | [📝 요약 README](CreamyView_report/README_CreamyView.md) | [📄 보고서 PDF](CreamyView_report/CreamyView_report.pdf)
 
