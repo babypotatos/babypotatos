@@ -92,14 +92,14 @@
 
 | # | 프로젝트 | 기법 | 핵심 포인트 | 요약 | 코드 |
 |:--:|---|---|---|:--:|:--:|
-| 01 | 보스턴 하우징 가격 결정요인 | 다중선형회귀 | 상한값 민감도 분석 | [📝](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/README_보스턴_하우징_가격_결정요인.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/보스턴_하우징_가격_결정요인.ipynb>) |
-| 02 | 보험료 결정요인 | 다중선형회귀 | 흡연 × 비만 상호작용 | [📝](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인/README_보험료_결정요인.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인/보험료_결정요인.ipynb>) |
-| 03 | 다이아몬드 가격 예측 | 다중선형회귀 | 도메인 지식 변수 선택 | [📝](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측/README_다이아몬드_가격_예측.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측/다이아몬드_가격_예측.ipynb>) |
-| 04 | 주택 리모델링 가치 분석 | 다중선형회귀 | 파생변수 (옵션 개수) | [📝](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석/README_주택_리모델링_가치_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석/주택_리모델링_가치_분석.ipynb>) |
-| 05 | 사과 품질 판별 | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | [📝](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별/README_사과_품질_판별.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별/사과_품질_판별.ipynb>) |
-| 06 | 당뇨병 발병 요인 분석 | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | [📝](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석/README_당뇨병_발병_요인_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석/당뇨병_발병_요인_분석.ipynb>) |
-| 07 | 타이타닉 생존 요인 분석 | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | [📝](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석/README_타이타닉_생존_요인_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석/타이타닉_생존_요인_분석.ipynb>) |
-| 08 | 캘리포니아 주택가격 결정요인 | 머신러닝 (CatBoost) | 공간 군집 파생변수 · SHAP 해석 | [📝](<https://github.com/babypotatos/workspace/blob/main/캘리포니아 주택가격 결정요인/README_캘리포니아_주택가격.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/캘리포니아 주택가격 결정요인/캘리포니아_주택가격_결정요인.ipynb>) |
+| 01 | 보스턴 하우징 가격 결정요인 | 다중선형회귀 | 상한값 민감도 분석 | [📝](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/README_보스턴_하우징_가격_결정요인.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/보스턴 하우징 가격 결정요인/보스턴 하우징 가격 결정요인.ipynb>) |
+| 02 | 보험료 결정요인 | 다중선형회귀 | 흡연 × 비만 상호작용 | [📝](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인/README_보험료_결정요인.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/보험료 결정요인/보험료 결정요인.ipynb>) |
+| 03 | 다이아몬드 가격 예측 | 다중선형회귀 | 도메인 지식 변수 선택 | [📝](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측/README_다이아몬드_가격_예측.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/다이아몬드 가격 예측/다이아몬드 가격 예측.ipynb>) |
+| 04 | 주택 리모델링 가치 분석 | 다중선형회귀 | 파생변수 (옵션 개수) | [📝](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석/README_주택_리모델링_가치_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/주택 리모델링 가치 분석/주택 리모델링 가치 분석.ipynb>) |
+| 05 | 사과 품질 판별 | 로지스틱 회귀 | 가정 검정으로 찾은 곡선 관계 | [📝](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별/README_사과_품질_판별.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/사과 품질 판별/사과 품질 판별.ipynb>) |
+| 06 | 당뇨병 발병 요인 분석 | 로지스틱 회귀 | 정확도의 함정 · 임계값 조정 | [📝](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석/README_당뇨병_발병_요인_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/당뇨병 발병 요인 분석/당뇨병 발병 요인 분석.ipynb>) |
+| 07 | 타이타닉 생존 요인 분석 | 로지스틱 회귀 | 호칭 · 가족 규모 파생변수 | [📝](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석/README_타이타닉_생존_요인_분석.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/타이타닉 생존 요인 분석/타이타닉 생존 요인 분석.ipynb>) |
+| 08 | 캘리포니아 주택가격 결정요인 | 머신러닝 (CatBoost) | 공간 군집 파생변수 · SHAP 해석 | [📝](<https://github.com/babypotatos/workspace/blob/main/캘리포니아 주택가격 결정요인/README_캘리포니아_주택가격.md>) | [📓](<https://github.com/babypotatos/workspace/blob/main/캘리포니아 주택가격 결정요인/캘리포니아 주택가격 결정요인.ipynb>) |
 | 09 | (미정) | 머신러닝 · 분류 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 | 10 | (미정) | 머신러닝 · 군집 | — | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
 
