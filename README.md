@@ -20,6 +20,7 @@
 <br/>
 [![Email](https://img.shields.io/badge/sonsaeyeon22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonsaeyeon22@gmail.com)
 [![Blog](https://img.shields.io/badge/Study_Log-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/hellohandbird)
+[![Notion](https://img.shields.io/badge/Analysis_Pipeline-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/6251bbef797983dc93f081463ae4f10a)
 
 </div>
 
@@ -37,6 +38,7 @@
 | **License** | `SQLD` `ADsP` `사회조사분석사 2급` |
 | **Contact** | sonsaeyeon22@gmail.com |
 | **Study Log** | [데이터 분석 학습 노트](https://blog.naver.com/hellohandbird) |
+| **Pipeline** | [데이터 분석 파이프라인](https://app.notion.com/p/6251bbef797983dc93f081463ae4f10a) |
 
 ---
 
@@ -63,7 +65,13 @@
 **Visualization**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ---
 
 ## ⭐ Featured Project
