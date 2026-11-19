@@ -52,10 +52,18 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF0D57)
 ![Kiwi](https://img.shields.io/badge/Kiwi-2EA043)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A)
+![PySAL](https://img.shields.io/badge/PySAL-1F6FB2)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-FF0D57)
 
 **Collection & Automation**
 
